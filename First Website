@@ -1,0 +1,25 @@
+<!DOCTYPE html>
+<html lang="en" dir="ltr">
+  <head>
+    <meta charset="utf-8">
+    <title>Amazon for Life.com</title>
+  </head>
+  <body>
+    <table border="1" width="50%">
+      <tr>
+        <td colspan="2">Amazon for Life</td>
+      </tr>
+      <tr>
+        <td>¨Amazon smile.png¨</td>
+        <td>¨Amazon Prime.png¨</td>
+      </tr>
+      <tr>
+        <td colspan="2">Got a global pandemic on your hands? Do not be afraid because we are here for you! We have amazing shipping, great prices, and trusted users! Having trouble with streaming your favorite shows? We have that too!</td>
+      </tr>
+      <tr>
+        <td colspan="2">¨Amzaon Prime Video.png¨</td>
+      </tr>
+
+    </table>
+  </body>
+</html>
